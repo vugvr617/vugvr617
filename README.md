@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vugar Nasraddinli</h1>
 <h3 align="center">A Professional Frontend and Mobile Developer with 2 Years of Professional Experience in Frontend Development and 1 Year in Mobile Application Development Using React Native, Currently Focused on Exploring Solidity and Blockchain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vugvr617&label=Profile%20views&color=0e75b6&style=flat" alt="vugvr617" /> </p>
-
 - 🌱 I’m currently learning **Blockchain Development**
 
 - 👨‍💻 All of my projects are available at [github.com/vugvr617](github.com/vugvr617)
