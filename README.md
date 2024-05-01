@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vugar Nasraddinli</h1>
-<h3 align="center">A Software Developer with 2 Years of Professional Experience in Frontend Development and 1 Year in Mobile Application Development Using React Native, Currently Focused on Exploring Solidity and Blockchain</h3>
 
 - 🌱 I’m currently learning **Blockchain Development**
 
